@@ -1,0 +1,13 @@
+h1{
+        font-family:  Courier;
+    font-size: 3rem;
+}
+.container{
+    height: 800px;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: space-around;
+    
+}

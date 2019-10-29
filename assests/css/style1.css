@@ -1,0 +1,50 @@
+body{
+    background-color: pink;
+}
+.name{
+    height: 30px;
+    width: 100px;
+    padding: 5px;
+    flex-direction: row;
+}
+.links{
+    margin-left:5px;
+    
+}
+
+
+
+}
+h1{
+    margin-left: 4rem;
+    font-family: georgia;
+    font-display:blue ;
+    font-size: 3rem;
+}
+hr{
+width: 1200px;
+height: 1.5rem;
+color: darkgray;
+}
+.container{
+    margin-left : 100px;
+    padding: 10px;
+    display: flex;
+    
+    
+}
+p {
+    font-display: #ffffff;
+    text-align: justify;
+    font-size: 2rem;
+    font-family: sans-serif;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+ }
